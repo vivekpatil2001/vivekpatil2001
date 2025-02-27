@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @vivekpatil2001
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Vivek Shejole!
+🚀 Freelancer | Technical Educator | Full Stack Developer
 
-<!---
-vivekpatil2001/vivekpatil2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Passionate about coding, building web applications, and sharing knowledge.
+💻 Working as a freelancer and teaching in the technical field.
+💡 Skilled in React.js, Node.js, Tailwind CSS, and modern web development.
+💞 Open to collaborations and exciting projects.
+📫 Reach me at [your email or social link]
+
+🔧 Tech Stack:
+Frontend: React.js, Tailwind CSS, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB, MySQL
+Tools: Git, GitHub, VS Code
